@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name oscs)(type KiCad)(uri "$(KIPRJMOD)/oscs.pretty")(options "")(descr ""))
+  (lib (name HR911105_RJ45)(type Legacy)(uri "$(KIPRJMOD)/HR911105_RJ45.mod")(options "")(descr ""))
+)
